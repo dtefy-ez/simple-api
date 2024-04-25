@@ -1,3 +1,12 @@
+# Resumen
+
+API Completa 2 ✅
+API Incompleta 82 ❌
+
+API Total: 2 / 84
+
+# Avances en los endpoints
+
 - API Contribuyentes
 	- Consultas públicas
 		- GET
