@@ -1,7 +1,7 @@
 - API Contribuyentes
 	- Consultas públicas
 		- GET
-			- Situación Tributaria de un Contribuyente ❌
+			- Situación Tributaria de un Contribuyente ✅
 			- Verificación de Cédula RUT ❌
 		- Actividades Económicas ❌
 	- Consultas MiSii
@@ -47,7 +47,7 @@
 	- Registro de Compras
 		- POST
 			- Resumen de Compras ❌
-			- Detalle de Compras ❌
+			- Detalle de Compras ✅
 			- Asignación Tipo de Transacción de una Compra ❌
 	- Registro de Ventas
 		- POST
