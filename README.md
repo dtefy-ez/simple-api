@@ -1,9 +1,9 @@
 # Resumen
 
-API Completa 2 ✅
-API Incompleta 82 ❌
+API Completa 3 ✅
+API Incompleta 81 ❌
 
-API Total: 2 / 84
+API Total: 3 / 84
 
 # Avances en los endpoints
 
@@ -79,7 +79,7 @@ API Total: 2 / 84
 			- Anular Boleta de Honorarios Emitida ❌
 	- Boletas de Honorarios Recibidas
 		- POST
-			- Listado de Boletas de Honorarios Recibidas ❌
+			- Listado de Boletas de Honorarios Recibidas ✅
 			- Descargar PDF Boleta de Honorarios Recibida ❌
 			- Observar Boleta de Honorarios Recibida ❌
 - API BTE
