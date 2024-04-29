@@ -1,9 +1,5 @@
 # Resumen
-
-API Completa 3 ✅
-API Incompleta 81 ❌
-
-API Total: 3 / 84
+API Total: 4 / 84
 
 # Avances en los endpoints
 
@@ -122,7 +118,7 @@ API Total: 3 / 84
 		- POST
 			- Listado de Documentos Recibidos ❌
 			- Descargar PDF de un DTE Recibido ❌
-			- Descargar XML de un DTE Recibido ❌
+			- Descargar XML de un DTE Recibido ✅
 - API Certificación DTE
 	- Contribuyentes
 		- POST
