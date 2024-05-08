@@ -1,5 +1,5 @@
 # Resumen
-API Total: 4 / 84
+API Total: 5 / 84
 
 # Avances en los endpoints
 
@@ -82,7 +82,7 @@ API Total: 4 / 84
 	- Boletas de Terceros Emitidas
 		- POST
 			- Resumen Mensual y Anual de Boletas de Terceros Emitidas ❌
-			- Listado de Boletas de Terceros Emitidas ❌
+			- Listado de Boletas de Terceros Emitidas ✅
 			- Emitir Boleta de Terceros ❌
 			- Descargar HTML Boleta de Terceros ❌
 			- Anular Boleta de Terceros Emitida ❌
