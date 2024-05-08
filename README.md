@@ -20,11 +20,11 @@ API Total: 5 / 84
 - API DTE
 	- Código de Asignación de Folios (CAF)
 		- POST
-			- Solicitar CAF ❌
-			- Descargar XML ❌
-			- Consultar Estado de un Folio ❌
-			- Anulación de Folios ❌
-			- Listado de Folios Solicitados ❌
+			- Solicitar CAF 🚧
+			- Descargar XML 🚧
+			- Consultar Estado de un Folio 🚧
+			- Anulación de Folios 🚧
+			- Listado de Folios Solicitados 🚧
 			- Listado de Folios por Estado ❌
 	- Contribuyentes
 		- POST
@@ -76,16 +76,16 @@ API Total: 5 / 84
 	- Boletas de Honorarios Recibidas
 		- POST
 			- Listado de Boletas de Honorarios Recibidas ✅
-			- Descargar PDF Boleta de Honorarios Recibida ❌
+			- Descargar PDF Boleta de Honorarios Recibida 🚧
 			- Observar Boleta de Honorarios Recibida ❌
 - API BTE
 	- Boletas de Terceros Emitidas
 		- POST
 			- Resumen Mensual y Anual de Boletas de Terceros Emitidas ❌
 			- Listado de Boletas de Terceros Emitidas ✅
-			- Emitir Boleta de Terceros ❌
-			- Descargar HTML Boleta de Terceros ❌
-			- Anular Boleta de Terceros Emitida ❌
+			- Emitir Boleta de Terceros 🚧
+			- Descargar HTML Boleta de Terceros 🚧
+			- Anular Boleta de Terceros Emitida 🚧
 			- Buscar datos Boleta de Terceros ❌
 			- Obtener la tasa del receptor de una BTE ❌
 	- Boletas de Terceros Recibidas
@@ -102,21 +102,21 @@ API Total: 5 / 84
 - API Software MIPYME SII
 	- Contribuyentes
 		- POST
-			- Información Pública de un Contribuyente ❌
+			- Información Pública de un Contribuyente 🚧
 	- Documentos Borradores
 		- POST
-			- Listado de Documentos Borradores ❌
-			- Emitir Documento Borrador ❌
-			- Eliminar Documento Borrador ❌
-			- Descargar PDF de un Documento Borrador ❌
+			- Listado de Documentos Borradores 🚧
+			- Emitir Documento Borrador 🚧
+			- Eliminar Documento Borrador 🚧
+			- Descargar PDF de un Documento Borrador 🚧
 	- Documentos Emitidos
 		- POST
-			- Listado de Documentos Emitidos ❌
-			- Descargar PDF de un DTE Emitido ❌
-			- Descargar XML de un DTE emitido ❌
+			- Listado de Documentos Emitidos 🚧
+			- Descargar PDF de un DTE Emitido 🚧
+			- Descargar XML de un DTE emitido 🚧
 	- Documentos Recibidos
 		- POST
-			- Listado de Documentos Recibidos ❌
+			- Listado de Documentos Recibidos 🚧
 			- Descargar PDF de un DTE Recibido ❌
 			- Descargar XML de un DTE Recibido ✅
 - API Certificación DTE
@@ -133,10 +133,10 @@ API Total: 5 / 84
 - API Facturación
 	- Documentos Tributarios
 		- POST
-			- Generar XML de un DTE ❌
+			- Generar XML de un DTE 🚧
 			- Generar PDF a partir del XML del DTE ❌
 			- Generar ESCPOS a partir del XML del DTE ❌
-			- Normalizar DTE al formato estándar del SII ❌
+			- Normalizar DTE al formato estándar del SII 🚧
 			- Generar XML de RVD de Boletas (ex RCOF) ❌
 			- Generar XML de Cesión de DTE (AEC) ❌
 	- Envíos al SII
