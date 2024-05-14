@@ -76,7 +76,7 @@ API Total: 5 / 84
 	- Boletas de Honorarios Recibidas
 		- POST
 			- Listado de Boletas de Honorarios Recibidas ✅
-			- Descargar PDF Boleta de Honorarios Recibida 🚧
+			- Descargar PDF Boleta de Honorarios Recibida ✅
 			- Observar Boleta de Honorarios Recibida ❌
 - API BTE
 	- Boletas de Terceros Emitidas
