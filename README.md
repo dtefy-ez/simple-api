@@ -1,5 +1,5 @@
 # Resumen
-API Total: 6 / 84
+API Total: 7 / 84
 
 # Avances en los endpoints
 
@@ -102,7 +102,7 @@ API Total: 6 / 84
 - API Software MIPYME SII
 	- Contribuyentes
 		- POST
-			- Información Pública de un Contribuyente 🚧
+			- Información Pública de un Contribuyente ✅
 	- Documentos Borradores
 		- POST
 			- Listado de Documentos Borradores 🚧
