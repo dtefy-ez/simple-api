@@ -83,7 +83,7 @@ API Total: 8 / 84
 		- POST
 			- Resumen Mensual y Anual de Boletas de Terceros Emitidas ❌
 			- Listado de Boletas de Terceros Emitidas ✅
-			- Emitir Boleta de Terceros ✅
+			- Emitir Boleta de Terceros ✅✅
 			- Descargar HTML Boleta de Terceros 🚧
 			- Anular Boleta de Terceros Emitida 🚧
 			- Buscar datos Boleta de Terceros ❌
@@ -102,7 +102,7 @@ API Total: 8 / 84
 - API Software MIPYME SII
 	- Contribuyentes
 		- POST
-			- Información Pública de un Contribuyente ✅
+			- Información Pública de un Contribuyente ✅✅
 	- Documentos Borradores
 		- POST
 			- Listado de Documentos Borradores 🚧
