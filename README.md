@@ -83,7 +83,7 @@ API Total: 7 / 84
 		- POST
 			- Resumen Mensual y Anual de Boletas de Terceros Emitidas ❌
 			- Listado de Boletas de Terceros Emitidas ✅
-			- Emitir Boleta de Terceros 🚧
+			- Emitir Boleta de Terceros ✅
 			- Descargar HTML Boleta de Terceros 🚧
 			- Anular Boleta de Terceros Emitida 🚧
 			- Buscar datos Boleta de Terceros ❌
