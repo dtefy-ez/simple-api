@@ -87,7 +87,7 @@ API Total: 8 / 84
 			- Descargar HTML Boleta de Terceros 🚧
 			- Anular Boleta de Terceros Emitida 🚧
 			- Buscar datos Boleta de Terceros ❌
-			- Obtener la tasa del receptor de una BTE ❌
+			- Obtener la tasa del receptor de una BTE ✅✅
 	- Boletas de Terceros Recibidas
 		- POST
 			- Listado de Boletas de Terceros Recibidas ❌
