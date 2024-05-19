@@ -1,5 +1,5 @@
 # Resumen
-API Total: 11 / 84
+API Total: 12 / 84
 
 # Avances en los endpoints
 
@@ -86,7 +86,7 @@ API Total: 11 / 84
 			- Emitir Boleta de Terceros ✅✅
 			- Descargar HTML Boleta de Terceros ✅✅
 			- Anular Boleta de Terceros Emitida ✅✅
-			- Buscar datos Boleta de Terceros ❌
+			- Buscar datos Boleta de Terceros ✅✅
 			- Obtener la tasa del receptor de una BTE ✅✅
 	- Boletas de Terceros Recibidas
 		- POST
