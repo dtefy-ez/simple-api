@@ -7,11 +7,11 @@ API Total: 12 / 84
 	- Consultas públicas
 		- GET
 			- Situación Tributaria de un Contribuyente ✅
-			- Verificación de Cédula RUT 🚧
-		- Actividades Económicas 🚧
+			- Verificación de Cédula RUT 🚧🚧
+		- Actividades Económicas 🚧🚧
 	- Consultas MiSii
 		- POST
-			- Datos del contribuyente 🚧
+			- Datos del contribuyente 🚧🚧
 - API SII
 	- GET
 		- Unidad de fomento (UF) ❌
@@ -47,14 +47,14 @@ API Total: 12 / 84
 - API RCV
 	- Registro de Compras
 		- POST
-			- Resumen de Compras 🚧
+			- Resumen de Compras 🚧🚧
 			- Detalle de Compras ✅
-			- Asignación Tipo de Transacción de una Compra 🚧
+			- Asignación Tipo de Transacción de una Compra 🚧🚧
 	- Registro de Ventas
 		- POST
-			- Resumen de Ventas 🚧
-			- Detalle de Ventas 🚧
-			- Asignación de Resumen de Ventas por Documento 🚧
+			- Resumen de Ventas 🚧🚧
+			- Detalle de Ventas 🚧🚧
+			- Asignación de Resumen de Ventas por Documento 🚧🚧
 - API RTC
 	- POST
 		- Obtener Certificado de Cesión Electrónica ❌
@@ -64,20 +64,20 @@ API Total: 12 / 84
 - API BHE
 	- Boletas de Honorarios Emitidas
 		- POST
-			- Listado de Boletas de Honorarios Emitidas 🚧
-			- Emitir Boleta de Honorarios 🚧
-			- Descargar PDF Boleta de Honorarios Emitida 🚧
-			- Enviar Email con la Boleta de Honorarios Emitida 🚧
-			- Anular Boleta de Honorarios Emitida 🚧
+			- Listado de Boletas de Honorarios Emitidas 🚧🚧
+			- Emitir Boleta de Honorarios 🚧🚧
+			- Descargar PDF Boleta de Honorarios Emitida 🚧🚧
+			- Enviar Email con la Boleta de Honorarios Emitida 🚧🚧
+			- Anular Boleta de Honorarios Emitida 🚧🚧
 	- Boletas de Honorarios Recibidas
 		- POST
 			- Listado de Boletas de Honorarios Recibidas ✅
 			- Descargar PDF Boleta de Honorarios Recibida ✅
-			- Observar Boleta de Honorarios Recibida 🚧
+			- Observar Boleta de Honorarios Recibida 🚧🚧
 - API BTE
 	- Boletas de Terceros Emitidas
 		- POST
-			- Resumen Mensual y Anual de Boletas de Terceros Emitidas 🚧
+			- Resumen Mensual y Anual de Boletas de Terceros Emitidas 🚧🚧
 			- Listado de Boletas de Terceros Emitidas ✅
 			- Emitir Boleta de Terceros ✅✅
 			- Descargar HTML Boleta de Terceros ✅✅
@@ -86,8 +86,8 @@ API Total: 12 / 84
 			- Obtener la tasa del receptor de una BTE ✅✅
 	- Boletas de Terceros Recibidas
 		- POST
-			- Listado de Boletas de Terceros Recibidas 🚧
-			- Descargar HTML Boleta de Terceros Recibida 🚧
+			- Listado de Boletas de Terceros Recibidas 🚧🚧
+			- Descargar HTML Boleta de Terceros Recibida 🚧🚧
 - API Vehículos
 	- POST
 		- Buscar Tasación Vehicular ❌
@@ -113,7 +113,7 @@ API Total: 12 / 84
 	- Documentos Recibidos
 		- POST
 			- Listado de Documentos Recibidos 🚧
-			- Descargar PDF de un DTE Recibido 🚧
+			- Descargar PDF de un DTE Recibido 🚧🚧
 			- Descargar XML de un DTE Recibido ✅
 - API Certificación DTE
 	- Contribuyentes
