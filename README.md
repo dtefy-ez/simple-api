@@ -64,16 +64,16 @@ API Total: 12 / 84
 - API BHE
 	- Boletas de Honorarios Emitidas
 		- POST
-			- Listado de Boletas de Honorarios Emitidas ❌
-			- Emitir Boleta de Honorarios ❌
-			- Descargar PDF Boleta de Honorarios Emitida ❌
-			- Enviar Email con la Boleta de Honorarios Emitida ❌
-			- Anular Boleta de Honorarios Emitida ❌
+			- Listado de Boletas de Honorarios Emitidas 🚧
+			- Emitir Boleta de Honorarios 🚧
+			- Descargar PDF Boleta de Honorarios Emitida 🚧
+			- Enviar Email con la Boleta de Honorarios Emitida 🚧
+			- Anular Boleta de Honorarios Emitida 🚧
 	- Boletas de Honorarios Recibidas
 		- POST
 			- Listado de Boletas de Honorarios Recibidas ✅
 			- Descargar PDF Boleta de Honorarios Recibida ✅
-			- Observar Boleta de Honorarios Recibida ❌
+			- Observar Boleta de Honorarios Recibida 🚧
 - API BTE
 	- Boletas de Terceros Emitidas
 		- POST
