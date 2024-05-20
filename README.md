@@ -87,7 +87,7 @@ API Total: 13 / 84
 	- Boletas de Terceros Recibidas
 		- POST
 			- Listado de Boletas de Terceros Recibidas 🚧🚧
-			- Descargar HTML Boleta de Terceros Recibida 🚧🚧
+			- Descargar HTML Boleta de Terceros Recibida ✅✅
 - API Vehículos
 	- POST
 		- Buscar Tasación Vehicular ❌
