@@ -8,10 +8,10 @@ API Total: 15 / 84
 		- GET
 			- Situación Tributaria de un Contribuyente ✅
 			- Verificación de Cédula RUT 🚧🚧
-		- Actividades Económicas 🚧🚧
+		- Actividades Económicas 🚧🚧🚀
 	- Consultas MiSii
 		- POST
-			- Datos del contribuyente 🚧🚧
+			- Datos del contribuyente 🚧🚧🚀
 - API SII
 	- GET
 		- Unidad de fomento (UF) ❌
@@ -47,13 +47,13 @@ API Total: 15 / 84
 - API RCV
 	- Registro de Compras
 		- POST
-			- Resumen de Compras 🚧🚧
+			- Resumen de Compras 🚧🚧🚀
 			- Detalle de Compras ✅
 			- Asignación Tipo de Transacción de una Compra 🚧🚧
 	- Registro de Ventas
 		- POST
-			- Resumen de Ventas 🚧🚧
-			- Detalle de Ventas 🚧🚧
+			- Resumen de Ventas 🚧🚧🚀
+			- Detalle de Ventas 🚧🚧🚀
 			- Asignación de Resumen de Ventas por Documento 🚧🚧
 - API RTC
 	- POST
@@ -64,16 +64,16 @@ API Total: 15 / 84
 - API BHE
 	- Boletas de Honorarios Emitidas
 		- POST
-			- Listado de Boletas de Honorarios Emitidas 🚧🚧
-			- Emitir Boleta de Honorarios 🚧🚧
-			- Descargar PDF Boleta de Honorarios Emitida 🚧🚧
-			- Enviar Email con la Boleta de Honorarios Emitida 🚧🚧
-			- Anular Boleta de Honorarios Emitida 🚧🚧
+			- Listado de Boletas de Honorarios Emitidas 🚧🚧🚀
+			- Emitir Boleta de Honorarios 🚧🚧🚀
+			- Descargar PDF Boleta de Honorarios Emitida 🚧🚧🚀
+			- Enviar Email con la Boleta de Honorarios Emitida 🚧🚧🚀
+			- Anular Boleta de Honorarios Emitida 🚧🚧🚀
 	- Boletas de Honorarios Recibidas
 		- POST
 			- Listado de Boletas de Honorarios Recibidas ✅
 			- Descargar PDF Boleta de Honorarios Recibida ✅
-			- Observar Boleta de Honorarios Recibida 🚧🚧
+			- Observar Boleta de Honorarios Recibida 🚧🚧🚀
 - API BTE
 	- Boletas de Terceros Emitidas
 		- POST
@@ -107,13 +107,13 @@ API Total: 15 / 84
 			- Descargar PDF de un Documento Borrador 🚧
 	- Documentos Emitidos
 		- POST
-			- Listado de Documentos Emitidos 🚧
-			- Descargar PDF de un DTE Emitido 🚧
-			- Descargar XML de un DTE emitido 🚧
+			- Listado de Documentos Emitidos 🚧🚀
+			- Descargar PDF de un DTE Emitido 🚧🚀
+			- Descargar XML de un DTE emitido 🚧🚀
 	- Documentos Recibidos
 		- POST
-			- Listado de Documentos Recibidos 🚧
-			- Descargar PDF de un DTE Recibido 🚧🚧
+			- Listado de Documentos Recibidos 🚧🚀
+			- Descargar PDF de un DTE Recibido 🚧🚧🚀
 			- Descargar XML de un DTE Recibido ✅
 - API Certificación DTE
 	- Contribuyentes
