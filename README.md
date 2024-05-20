@@ -1,5 +1,5 @@
 # Resumen
-API Total: 12 / 84
+API Total: 13 / 84
 
 # Avances en los endpoints
 
@@ -77,7 +77,7 @@ API Total: 12 / 84
 - API BTE
 	- Boletas de Terceros Emitidas
 		- POST
-			- Resumen Mensual y Anual de Boletas de Terceros Emitidas 🚧🚧
+			- Resumen Mensual y Anual de Boletas de Terceros Emitidas ✅✅
 			- Listado de Boletas de Terceros Emitidas ✅
 			- Emitir Boleta de Terceros ✅✅
 			- Descargar HTML Boleta de Terceros ✅✅
