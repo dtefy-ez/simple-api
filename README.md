@@ -1,5 +1,5 @@
 # Resumen
-API Total: 14 / 84
+API Total: 15 / 84
 
 # Avances en los endpoints
 
@@ -86,7 +86,7 @@ API Total: 14 / 84
 			- Obtener la tasa del receptor de una BTE ✅✅
 	- Boletas de Terceros Recibidas
 		- POST
-			- Listado de Boletas de Terceros Recibidas 🚧🚧
+			- Listado de Boletas de Terceros Recibidas ✅✅
 			- Descargar HTML Boleta de Terceros Recibida ✅✅
 - API Vehículos
 	- POST
