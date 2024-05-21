@@ -1,5 +1,5 @@
 # Resumen
-API Total: 16 / 84
+API Total: 17 / 84
 
 # Avances en los endpoints
 
@@ -11,7 +11,7 @@ API Total: 16 / 84
 		- Actividades Económicas ✅✅
 	- Consultas MiSii
 		- POST
-			- Datos del contribuyente 🚧🚧🚀
+			- Datos del contribuyente ✅✅
 - API SII
 	- GET
 		- Unidad de fomento (UF) ❌
