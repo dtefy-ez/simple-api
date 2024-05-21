@@ -1,5 +1,5 @@
 # Resumen
-API Total: 15 / 84
+API Total: 16 / 84
 
 # Avances en los endpoints
 
@@ -8,7 +8,7 @@ API Total: 15 / 84
 		- GET
 			- Situación Tributaria de un Contribuyente ✅
 			- Verificación de Cédula RUT 🚧🚧
-		- Actividades Económicas 🚧🚧🚀
+		- Actividades Económicas ✅✅
 	- Consultas MiSii
 		- POST
 			- Datos del contribuyente 🚧🚧🚀
