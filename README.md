@@ -1,5 +1,5 @@
 # Resumen
-API Total: 19 / 84
+API Total: 20 / 84
 
 # Avances en los endpoints
 
@@ -52,7 +52,7 @@ API Total: 19 / 84
 			- Asignación Tipo de Transacción de una Compra 🚧🚧
 	- Registro de Ventas
 		- POST
-			- Resumen de Ventas 🚧🚧🚀
+			- Resumen de Ventas ✅✅
 			- Detalle de Ventas ✅✅
 			- Asignación de Resumen de Ventas por Documento 🚧🚧
 - API RTC
