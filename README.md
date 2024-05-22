@@ -48,7 +48,7 @@ API Total: 17 / 84
 	- Registro de Compras
 		- POST
 			- Resumen de Compras 🚧🚧🚀
-			- Detalle de Compras ✅
+			- Detalle de Compras ✅✅
 			- Asignación Tipo de Transacción de una Compra 🚧🚧
 	- Registro de Ventas
 		- POST
