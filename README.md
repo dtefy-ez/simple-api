@@ -109,7 +109,7 @@ API Total: 20 / 84
 		- POST
 			- Listado de Documentos Emitidos 🚧🚀
 			- Descargar PDF de un DTE Emitido 🚧🚀
-			- Descargar XML de un DTE emitido 🚧🚀
+			- Descargar XML de un DTE emitido 🚧🚀🚀
 	- Documentos Recibidos
 		- POST
 			- Listado de Documentos Recibidos 🚧🚀
