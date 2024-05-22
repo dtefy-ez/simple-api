@@ -53,7 +53,7 @@ API Total: 18 / 84
 	- Registro de Ventas
 		- POST
 			- Resumen de Ventas 🚧🚧🚀
-			- Detalle de Ventas 🚧🚧🚀
+			- Detalle de Ventas ✅✅
 			- Asignación de Resumen de Ventas por Documento 🚧🚧
 - API RTC
 	- POST
