@@ -1,5 +1,5 @@
 # Resumen
-API Total: 17 / 84
+API Total: 18 / 84
 
 # Avances en los endpoints
 
@@ -47,7 +47,7 @@ API Total: 17 / 84
 - API RCV
 	- Registro de Compras
 		- POST
-			- Resumen de Compras 🚧🚧🚀
+			- Resumen de Compras ✅✅
 			- Detalle de Compras ✅✅
 			- Asignación Tipo de Transacción de una Compra 🚧🚧
 	- Registro de Ventas
