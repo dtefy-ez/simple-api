@@ -114,7 +114,7 @@ API Total: 20 / 84
 		- POST
 			- Listado de Documentos Recibidos 🚧🚀
 			- Descargar PDF de un DTE Recibido 🚧🚧🚀
-			- Descargar XML de un DTE Recibido ✅
+			- Descargar XML de un DTE Recibido ✅✅
 - API Certificación DTE
 	- Contribuyentes
 		- POST
