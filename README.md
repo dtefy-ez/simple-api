@@ -1,5 +1,5 @@
 # Resumen
-API Total: 20 / 84
+API Total: 24 / 84
 
 # Avances en los endpoints
 
@@ -107,13 +107,13 @@ API Total: 20 / 84
 			- Descargar PDF de un Documento Borrador 🚧
 	- Documentos Emitidos
 		- POST
-			- Listado de Documentos Emitidos 🚧🚀
-			- Descargar PDF de un DTE Emitido 🚧🚀
+			- Listado de Documentos Emitidos ✅✅
+			- Descargar PDF de un DTE Emitido ✅✅
 			- Descargar XML de un DTE emitido 🚧🚀🚀
 	- Documentos Recibidos
 		- POST
-			- Listado de Documentos Recibidos 🚧🚀
-			- Descargar PDF de un DTE Recibido 🚧🚧🚀
+			- Listado de Documentos Recibidos ✅✅
+			- Descargar PDF de un DTE Recibido ✅✅
 			- Descargar XML de un DTE Recibido ✅✅
 - API Certificación DTE
 	- Contribuyentes
