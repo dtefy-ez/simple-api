@@ -7,7 +7,7 @@ API Total: 24 / 84
 	- Consultas públicas
 		- GET
 			- Situación Tributaria de un Contribuyente ✅✅
-			- Verificación de Cédula RUT 🚧🚧⌚
+			- Verificación de Cédula RUT 🚧🚧⌚ (se necesita un RUT y serie de una empresa para probar)
 		- Actividades Económicas ✅✅
 	- Consultas MiSii
 		- POST
