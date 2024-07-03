@@ -66,7 +66,7 @@ API Total: 25 / 84
 		- POST
 			- Listado de Boletas de Honorarios Emitidas ✅✅
 			- Emitir Boleta de Honorarios 🚧🚧🚀
-			- Descargar PDF Boleta de Honorarios Emitida 🚧🚧🚀
+			- Descargar PDF Boleta de Honorarios Emitida ✅✅
 			- Enviar Email con la Boleta de Honorarios Emitida 🚧🚧🚀
 			- Anular Boleta de Honorarios Emitida 🚧🚧🚀
 	- Boletas de Honorarios Recibidas
