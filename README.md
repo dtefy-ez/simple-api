@@ -20,12 +20,12 @@ API Total: 27 / 84
 - API DTE
 	- Código de Asignación de Folios (CAF)
 		- POST
-			- Solicitar CAF 🚧
-			- Descargar XML 🚧
-			- Consultar Estado de un Folio 🚧
-			- Anulación de Folios 🚧
-			- Listado de Folios Solicitados 🚧
-			- Listado de Folios por Estado 🚧
+			- Solicitar CAF 🚧❓
+			- Descargar XML 🚧❓
+			- Consultar Estado de un Folio 🚧❓
+			- Anulación de Folios 🚧❓
+			- Listado de Folios Solicitados 🚧❓
+			- Listado de Folios por Estado 🚧❓
 	- Contribuyentes
 		- POST
 			- Listado Contribuyentes Autorizados ❌
@@ -39,8 +39,8 @@ API Total: 27 / 84
 			- Asignar Usuarios Autorizados a un Contribuyente ❌
 	- Documentos Emitidos
 		- POST
-			- Estado de un envío de XML al SII 🚧
-			- Verificación Avanzada de un Documento en SII 🚧
+			- Estado de un envío de XML al SII 🚧❓
+			- Verificación Avanzada de un Documento en SII 🚧❓
 	- Información Electrónica de Compras y Ventas
 		- POST
 			- Obtener Código de Reemplazo de Libro ❌
@@ -118,33 +118,33 @@ API Total: 27 / 84
 - API Certificación DTE
 	- Contribuyentes
 		- POST
-			- Datos del contribuyente 🚧
+			- Datos del contribuyente 🚧❓
 	- Certificación de Facturas y otros documentos
 		- POST
-			- Postulación a Software de Mercado 🚧
-			- Solicitar Set de Pruebas 🚧
+			- Postulación a Software de Mercado 🚧❓
+			- Solicitar Set de Pruebas 🚧❓
 	- Certificación de Boletas
 		- POST
-			- Solicitar Set de Pruebas de Boletas 🚧
+			- Solicitar Set de Pruebas de Boletas 🚧❓
 - API Facturación
 	- Documentos Tributarios
 		- POST
-			- Generar XML de un DTE 🚧
-			- Generar PDF a partir del XML del DTE 🚧
-			- Generar ESCPOS a partir del XML del DTE 🚧
-			- Normalizar DTE al formato estándar del SII 🚧
-			- Generar XML de RVD de Boletas (ex RCOF) 🚧
-			- Generar XML de Cesión de DTE (AEC) 🚧
+			- Generar XML de un DTE 🚧❓
+			- Generar PDF a partir del XML del DTE 🚧❓
+			- Generar ESCPOS a partir del XML del DTE 🚧❓
+			- Normalizar DTE al formato estándar del SII 🚧❓
+			- Generar XML de RVD de Boletas (ex RCOF) 🚧❓
+			- Generar XML de Cesión de DTE (AEC) 🚧❓
 	- Envíos al SII
 		- POST
-			- Enviar XML al SII 🚧
-			- Consultar Envio de XML al SII 🚧
+			- Enviar XML al SII 🚧❓
+			- Consultar Envio de XML al SII 🚧❓
 	- Intercambios de DTE
 		- POST
-			- Registrar Respuesta de Intercambio de DTE en el SII 🚧
-			- Fecha de Recepción de un DTE en el SII 🚧
-			- Historial de Eventos de un DTE 🚧
-			- Información para Cesión de un DTE 🚧
+			- Registrar Respuesta de Intercambio de DTE en el SII 🚧❓
+			- Fecha de Recepción de un DTE en el SII 🚧❓
+			- Historial de Eventos de un DTE 🚧❓
+			- Información para Cesión de un DTE 🚧❓
 	- Back Office
 		- GET
 			- Información del Usuario ❌
