@@ -1,5 +1,5 @@
 # Resumen
-API Total: 24 / 84
+API Total: 25 / 84
 
 # Avances en los endpoints
 
