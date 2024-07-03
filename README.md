@@ -1,5 +1,5 @@
 # Resumen
-API Total: 26 / 84
+API Total: 27 / 84
 
 # Avances en los endpoints
 
@@ -67,7 +67,7 @@ API Total: 26 / 84
 			- Listado de Boletas de Honorarios Emitidas ✅✅
 			- Emitir Boleta de Honorarios 🚧🚧🚀
 			- Descargar PDF Boleta de Honorarios Emitida ✅✅
-			- Enviar Email con la Boleta de Honorarios Emitida 🚧🚧🚀
+			- Enviar Email con la Boleta de Honorarios Emitida ✅✅
 			- Anular Boleta de Honorarios Emitida 🚧🚧🚀
 	- Boletas de Honorarios Recibidas
 		- POST
