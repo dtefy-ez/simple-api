@@ -1,5 +1,5 @@
 # Resumen
-API Total: 29 / 84
+API Total: 30 / 84
 
 # Avances en los endpoints
 
@@ -7,7 +7,7 @@ API Total: 29 / 84
 	- Consultas públicas
 		- GET
 			- Situación Tributaria de un Contribuyente ✅✅
-			- Verificación de Cédula RUT 🚧🚧⌚ (se necesita un RUT y serie de una empresa para probar)
+			- Verificación de Cédula RUT ✅✅
 		- Actividades Económicas ✅✅
 	- Consultas MiSii
 		- POST
