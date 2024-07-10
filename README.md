@@ -1,5 +1,5 @@
 # Resumen
-API Total: 32 / 38 / 84
+API Total: 33 / 38 / 84
 
 # Avances en los endpoints
 
@@ -73,7 +73,7 @@ API Total: 32 / 38 / 84
 		- POST
 			- Listado de Boletas de Honorarios Recibidas ✅
 			- Descargar PDF Boleta de Honorarios Recibida ✅
-			- Observar Boleta de Honorarios Recibida 🚧🚧🚀
+			- Observar Boleta de Honorarios Recibida ✅✅
 - API BTE
 	- Boletas de Terceros Emitidas
 		- POST
