@@ -1,5 +1,5 @@
 # Resumen
-API Total: 30 / 84
+API Total: 31 / 38 / 84
 
 # Avances en los endpoints
 
@@ -49,7 +49,7 @@ API Total: 30 / 84
 		- POST
 			- Resumen de Compras ✅✅
 			- Detalle de Compras ✅✅
-			- Asignación Tipo de Transacción de una Compra 🚧🚧
+			- Asignación Tipo de Transacción de una Compra ✅✅
 	- Registro de Ventas
 		- POST
 			- Resumen de Ventas ✅✅
