@@ -1,5 +1,5 @@
 # Resumen
-API Total: 31 / 38 / 84
+API Total: 32 / 38 / 84
 
 # Avances en los endpoints
 
@@ -54,7 +54,7 @@ API Total: 31 / 38 / 84
 		- POST
 			- Resumen de Ventas ✅✅
 			- Detalle de Ventas ✅✅
-			- Asignación de Resumen de Ventas por Documento 🚧🚧
+			- Asignación de Resumen de Ventas por Documento ✅✅
 - API RTC
 	- POST
 		- Obtener Certificado de Cesión Electrónica ❌
