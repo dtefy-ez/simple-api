@@ -1,5 +1,5 @@
 # Resumen
-API Total: 35 / 38 / 84
+API Total: 36 / 38 / 84
 
 # Avances en los endpoints
 
@@ -109,7 +109,7 @@ API Total: 35 / 38 / 84
 		- POST
 			- Listado de Documentos Emitidos ✅✅
 			- Descargar PDF de un DTE Emitido ✅✅
-			- Descargar XML de un DTE emitido 🚧🚀🚀
+			- Descargar XML de un DTE emitido ✅✅
 	- Documentos Recibidos
 		- POST
 			- Listado de Documentos Recibidos ✅✅
