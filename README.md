@@ -1,5 +1,5 @@
 # Resumen
-API Total: 33 / 38 / 84
+API Total: 34 / 38 / 84
 
 # Avances en los endpoints
 
@@ -101,7 +101,7 @@ API Total: 33 / 38 / 84
 			- Información Pública de un Contribuyente ✅✅
 	- Documentos Borradores
 		- POST
-			- Listado de Documentos Borradores 🚧
+			- Listado de Documentos Borradores ✅✅
 			- Emitir Documento Borrador 🚧
 			- Eliminar Documento Borrador 🚧
 			- Descargar PDF de un Documento Borrador 🚧
