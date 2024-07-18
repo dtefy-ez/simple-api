@@ -1,5 +1,5 @@
 # Resumen
-API Total: 37 / 38 / 84
+API Total: 38 / 38 / 84
 
 # Avances en los endpoints
 
@@ -102,7 +102,7 @@ API Total: 37 / 38 / 84
 	- Documentos Borradores
 		- POST
 			- Listado de Documentos Borradores ✅✅
-			- Emitir Documento Borrador 🚧
+			- Emitir Documento Borrador ✅✅
 			- Eliminar Documento Borrador ✅✅
 			- Descargar PDF de un Documento Borrador ✅✅
 	- Documentos Emitidos
